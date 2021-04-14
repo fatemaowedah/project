@@ -7,8 +7,8 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ### Github Project Link
-[https://github.com/fatemaowedah/project/tree/master](GitHub Link) to view it in the browser.
+[GitHub Link](https://github.com/fatemaowedah/project/tree/master) to view it in the browser.
 
 
 ### Deploy Link
-[https://fatemaowedah.github.io/project/](Deploy Link) to view it in the browser.
+[Deploy Link](https://fatemaowedah.github.io/project/) to view it in the browser.
