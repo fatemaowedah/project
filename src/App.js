@@ -14,9 +14,7 @@ import Beauty from "./components/Beauty";
 import House from "./components/House";
 import Fitness from "./components/Fitness";
 import Automotive from "./components/Automotive";
-import Footer from "./components/Footer"
-// import CopyR from "./components/Copy"
-// import history from "./history";
+import Footer from "./components/Footer";
 import "./App.css";
 
 
@@ -24,7 +22,6 @@ class App extends React.Component {
   render() {
     return (
       <div>
-        {/* <Router history={history}> */}
         <Router >
           <NavMain />
           <NavSub />
