@@ -17,7 +17,7 @@ class NavMain extends React.Component {
   render() {
     return (
       <>
-        <Navbar className="navMain">
+        <Navbar className="navMain" bg="primary">
           <div className="container">
             <Navbar.Brand href="#home">
               <Link to="/https://new.grabone.co.nz">
@@ -128,19 +128,19 @@ class NavMain extends React.Component {
           <div className="container" >
             <Navbar.Collapse className="justify-content">
               <Nav.Link href="#home" >
-                <img className="pinIcon" src={homeIcon} alt="" />
+                <img className="footerPinIcon" src={homeIcon} alt="" />
               </Nav.Link>
               <Nav.Link href="#home">
-                <img className="pinIcon" src={searchIcon} alt="" />
+                <img className="footerPinIcon" src={searchIcon} alt="" />
               </Nav.Link>
               <Nav.Link href="#home">
-                <img className="pinIcon" src={categoryIcon} alt="" />
+                <img className="footerPinIcon" src={categoryIcon} alt="" />
               </Nav.Link>
               <Nav.Link href="#home">
-                <img className="pinIcon" src={cartBlackIcon} alt="" />
+                <img className="footerPinIcon" src={cartBlackIcon} alt="" />
               </Nav.Link>
               <Nav.Link href="#home">
-                <img className="pinIcon" src={userBlackIcon} alt="" />
+                <img className="footerPinIcon" src={userBlackIcon} alt="" />
               </Nav.Link>
             </Navbar.Collapse>
           </div>

@@ -4,14 +4,13 @@ import {
   Nav,
   NavDropdown,
   Form,
-  FormControl,
-  Button,
+  FormControl
 } from "react-bootstrap";
 
 class NavSub extends React.Component {
   render() {
     return (
-      <Navbar sticky="top" bg="light" expand="lg" className="navSub d-res-none">
+      <Navbar bg="light" expand="lg" className="navSub d-res-none">
         <div className="container">
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
