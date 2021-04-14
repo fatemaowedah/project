@@ -15,6 +15,7 @@ import House from "./components/House";
 import Fitness from "./components/Fitness";
 import Automotive from "./components/Automotive";
 import Footer from "./components/Footer"
+// import CopyR from "./components/Copy"
 // import history from "./history";
 import "./App.css";
 
@@ -40,6 +41,7 @@ class App extends React.Component {
           <Fitness />
           <Automotive />
           <Footer />
+          {/* <CopyR /> */}
         </Router>
       </div>
     );

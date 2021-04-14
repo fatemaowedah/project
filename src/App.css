@@ -21,6 +21,8 @@ body {
   height: 60px;
   color: #fff;
   z-index: 9;
+  padding: 0;
+  margin: 0;
 }
 
 .svg__global--go-logo-white {
@@ -471,4 +473,28 @@ display: block !important;
     border-radius: 50%;
     border: 1px solid #4f5864;
     background-color: #4f5864;
+}
+
+.footer-bottom{
+  margin: auto;
+  padding-left: 10px;
+  padding-right: 10px;
+  height: 60px;
+  align-items: center;
+  width: 100%;
+  border-top: 1px solid #dce3ed;
+  background-color: #fff;
+  display: block;
+
+}
+
+.footer-bottom p{
+  margin-bottom: 0;
+  margin-right: 10px;
+}
+
+.footer-bottom span{
+  color: #5ab3ee;
+  cursor: pointer;
+  margin-right: 10px;
 }

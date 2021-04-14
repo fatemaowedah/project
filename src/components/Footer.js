@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import { Navbar, Nav, Button, Container, Row, Jumbotron, Col,FormControl ,Form} from "react-bootstrap";
+import { Navbar, Nav, Button, Container, Row, Jumbotron, Col, FormControl, Form } from "react-bootstrap";
 import FacebookIcon from "../img/icons8-facebook-24.png";
 import TwitterIcon from "../img/icons8-twitter-24.png";
 import InstagramIcon from "../img/icons8-instagram-26.png";
